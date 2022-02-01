@@ -130,7 +130,7 @@ function setup() {
 
 
 
-alert("If the game is laging so please restart the game and if now only you have download this game so restart game once again then it not lag and please give ratings because this is my new game so please tell me how it is")
+//alert("If the game is laging so please restart the game and if now only you have download this game so restart game once again then it not lag and please give ratings because this is my new game so please tell me how it is")
 
 }
 
